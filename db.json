@@ -1,4 +1,8 @@
 {
-  "series": 200,
-  "lessons": 1300,
+  "series": {
+    "amount": 200
+  },
+  "lessons": {
+    "amount": 1300
+  },
 }
