@@ -1,8 +1,6 @@
 {
-  "series": {
-    "amount": 200
-  },
-  "lessons": {
-    "amount": 1300
-  }
+	"laracast": {
+		"series": 200,
+		"lessons": 1300
+	}
 }
